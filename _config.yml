@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Workshop
+description: workshop 24.02.2024
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/AnnKruQA/workshop24022024
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
