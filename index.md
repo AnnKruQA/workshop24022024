@@ -1,7 +1,6 @@
-    title: workshop24022024
-    description: workshop 24.02.2024
-    theme: just-the-docs
+title: Workshop
+layout: default
+nav_order: 1
 
-    url: https://github.com/AnnKruQA/workshop24022024
 
   
